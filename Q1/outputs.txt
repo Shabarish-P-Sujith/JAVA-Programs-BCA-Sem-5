@@ -1,0 +1,64 @@
+------- OUTPUT --------
+javac University.java
+java University      
+Enter the no. of Courses : 
+4
+Enter the names of the Courses : 
+BCA
+BBA
+MCA
+MBA
+The Remaining List is : 
+ BCA
+ BBA
+
+----- OUTPUT -----
+javac LinkedListDemo.java
+java LinkedListDemo
+Enter the no. of Courses : 3
+Enter the Names of the Courses :
+BCA
+BBA
+MBA
+Enter the Element at First Position :
+MCA
+Updated Courses : [MCA, BCA, BBA, MBA]
+Size of Courses : 4
+Delete the Last Element from the List :-
+Updated Courses : [MCA, BCA, BBA]
+Size of the Course is 3
+
+----- OUTPUT -----
+javac VectorEmp.java
+
+F:\BCA - Semester 5 - Notes\Practical Lab\Java Practical\Q1\Sub_Q3>java VectorEmp
+Enter the No. of Employees : 3
+
+----- Accept Employee Details -----
+
+Enter Employee Id : 101
+Enter Employee Name : ABC
+
+Enter Employee Id : 202
+Enter Employee Name : PQR
+
+Enter Employee Id : 303
+Enter Employee Name : XYZ
+
+----- Display Employee Details -----
+
+Employee Id : 101
+Employee Name : ABC
+
+Employee Id : 202
+Employee Name : PQR
+
+Employee Id : 303
+Employee Name : XYZ
+
+----- Search Employee Details -----
+
+Enter Employee ID to search :- 202
+
+Employee Id : 202
+Employee Name : PQR

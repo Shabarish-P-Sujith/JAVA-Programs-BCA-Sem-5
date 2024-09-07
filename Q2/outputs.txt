@@ -1,0 +1,28 @@
+----------- OUTPUT ----------
+false
+Red
+Pink
+Blue
+Yellow  
+Green
+
+----------- OUTPUT ----------
+
+Product Names:-
+Book
+Keyboard
+Laptop
+Mouse
+Pencil
+
+Product Removed.
+
+Product Names:-
+Keyboard
+Laptop
+Mouse
+Pencil
+
+Head Set:[Keyboard, Laptop, Mouse]
+Tail Set:[Mouse, Pencil]
+Sub Set:[Keyboard, Laptop, Mouse, Pencil]
