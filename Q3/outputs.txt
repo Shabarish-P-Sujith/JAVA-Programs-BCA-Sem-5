@@ -1,0 +1,44 @@
+------------- OUTPUT 1 -------------
+Before sorting values are :-
+Key : 101, Value : Green
+Key : 102, Value : Blue
+Key : 104, Value : Yellow
+Key : 105, Value : Red
+
+After sorting values are:-
+Key : 101, Value : Green
+Key : 102, Value : Blue
+Key : 104, Value : Yellow
+Key : 105, Value : Red
+
+------------- OUTPUT 2 -------------
+Before replacing Red with Maroon :- 
+Key : 101, Value : Green
+Key : 102, Value : Blue
+Key : 104, Value : Yellow
+Key : 105, Value : Red
+
+After replacing Red with Maroon :- 
+Key : 101, Value : Green
+Key : 102, Value : Blue
+Key : 104, Value : Yellow
+Key : 105, Value : Maroon
+
+------------- OUTPUT 3 -------------
+Key : 101, Value : Russia
+Key : 102, Value : America
+Key : 104, Value : Africa
+Key : 105, Value : India
+
+Enter the Key to check the availability : 105
+It is present
+
+                "OR"
+
+Key : 101, Value : Russia
+Key : 102, Value : America
+Key : 104, Value : Africa
+Key : 105, Value : India
+
+Enter the Key to check the availability : 103
+It is not present
