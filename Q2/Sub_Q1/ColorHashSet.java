@@ -2,12 +2,9 @@ import java.util.*;
 
 public class ColorHashSet {
 	public static void main(String[] args) {
-		HashSet<String> color=new HashSet<>();
-		color.add("Pink");
-		color.add("Red");
-		color.add("Blue");
-		color.add("Yellow");
-		color.add("Green");
+		TreeSet<String> color=new TreeSet<>();
+		color.add("Pink"); color.add("Red"); color.add("Blue"); 
+		color.add("Yellow"); color.add("Green");
 
 		System.out.println(color.add("Red"));
 		
