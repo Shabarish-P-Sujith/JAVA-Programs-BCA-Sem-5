@@ -1,0 +1,67 @@
+--------------- OUTPUTS --------------
+Sum = -503
+Avg =-5
+Sum = 693
+Avg =6
+Sum = -2420
+Avg =-24
+Sum = -805
+Avg =-8
+Sum = 259
+Avg =2
+Sum = 332
+Avg =3
+Sum = 249
+Sum = 760
+Sum = -135
+Avg =-1
+Avg =2
+Sum = 193
+Avg =1
+Avg =7
+
+--------------- OUTPUTS --------------
+ThreadName : main
+Thread 1 : Hello Java
+Thread 2 : Hello Java
+Thread 3 : Hello Java
+Thread 4 : Hello Java
+Thread 5 : Hello Java
+Thread 6 : Hello Java
+Thread 7 : Hello Java
+Thread 8 : Hello Java
+Thread 9 : Hello Java
+Thread 10 : Hello Java
+Thread 11 : Hello Java
+Thread 12 : Hello Java
+Thread 13 : Hello Java
+Thread 14 : Hello Java
+Thread 15 : Hello Java
+Thread 16 : Hello Java
+Thread 17 : Hello Java
+Thread 18 : Hello Java
+Thread 19 : Hello Java
+Thread 20 : Hello Java
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+NOTE : It will go on Continuosly....
