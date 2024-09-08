@@ -1,0 +1,4 @@
+The Output is in GUI format.
+So, just Copy-Paste the given code into your Code Editor.
+
+You will get the Result.
