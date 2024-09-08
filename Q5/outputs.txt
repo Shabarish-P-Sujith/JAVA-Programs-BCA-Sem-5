@@ -1,0 +1,59 @@
+-------------- OUTPUTS ---------------
+
+Random Integer generated : 10
+Square of 10 = 100
+Cube of 10 = 1000
+
+Random Integer generated : 13
+Square of 13 = 169
+Cube of 13 = 2197
+
+Random Integer generated : 33
+Square of 33 = 1089
+Cube of 33 = 35937
+
+Random Integer generated : 9
+Square of 9 = 81
+Cube of 9 = 729
+
+Random Integer generated : 77
+Square of 77 = 5929
+Cube of 77 = 456533
+
+Random Integer generated : 64
+Square of 64 = 4096
+Cube of 64 = 262144
+
+Random Integer generated : 47
+Square of 47 = 2209
+Cube of 47 = 103823
+
+Random Integer generated : 18
+Square of 18 = 324
+Cube of 18 = 5832
+
+Random Integer generated : 53
+Square of 53 = 2809
+Cube of 53 = 148877
+
+Random Integer generated : 39
+Square of 39 = 1521
+Cube of 39 = 59319
+
+-------------- OUTPUTS ---------------
+
+First Thread: Good Morning
+Second Thread: Hello
+First Thread: Good Morning
+Third Thread: Welcome
+First Thread: Good Morning
+Second Thread: Hello
+First Thread: Good Morning
+First Thread: Good Morning
+Third Thread: Welcome
+Second Thread: Hello
+Second Thread: Hello
+Third Thread: Welcome
+Second Thread: Hello
+Third Thread: Welcome
+Third Thread: Welcome
