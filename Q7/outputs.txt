@@ -1,0 +1,4 @@
+These 3 programs are GUI-based programs. 
+
+So, you would have to Copy-Paste the programs and Run them in CMD.
+(Except for Sub_Q1)
